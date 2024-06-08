@@ -1,1 +1,1 @@
-# Amazon-Replica
+This repository provides a fully functional clone of the Amazon e-commerce platform, designed to mimic its<br> key features with HTML and CSS replicas while allowing for extensive customization. The project is<br> structured to offer a scalable, modular, and easily deployable solution for anyone looking to create<br> their own online marketplace.
